@@ -1,5 +1,5 @@
 print("""CRIE UM PROGRAMA QUE LEIA ALGO NO TECLADO E MOSTRE SEU TIPO PRIMITIO
-E TODAS AS INFORMAÃ‡Ã•ES POSSIVEIS SOBRE ELE.\n""")
+E TODAS AS INFORÇÕES POSSIVEIS SOBRE ELE.\n""")
 a = input('Digite algo no teclado: ')
 print('O tipo primitivo Ã©: ', type(a))
 print('Ele esta minusculo: ', a.islower())
